@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgb(240, 115, 192), rgb(236, 76, 175)); 
+    background: linear-gradient(rgb(128, 70, 105), rgb(236, 76, 175)); 
 }
 .Tarjetas{
     margin-left: 35px;
@@ -16,7 +16,7 @@ h1 {
 h2 {
     color: #ffffff;
     font-family: 'Georgia';
-    font-size: 40px;
+    font-size: 20px;
     margin-left: 30px;
     text-align: left;
 }
